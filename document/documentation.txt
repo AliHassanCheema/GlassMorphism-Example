@@ -1,0 +1,8 @@
+Hi Flutter Developers,
+   Most of the flutter developers are familiar with glass morphic effects but if you dont, this post will help you to understand it in a better way.
+   Glassmorphism is a designing style. In this we create a frosted glass container with blur and transparency, with an effect of light passing through the container. You can make it by using a flutter widget called BackDropFilter 
+but here I'll tell you about flutter package called glassmorphism.
+
+It is easy and simple to get started with the package. GlassMorphism container returns a stateless widget. There are some simple parameters to handle it like height, width, blur, alignment, border(borderwidth) etc
+
+Here you can see a simple example.
